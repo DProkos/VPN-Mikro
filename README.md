@@ -8,13 +8,13 @@ VPN Mikro is a PyQt6 desktop application for Windows that provides a modern inte
 
 ## Table of Contents
 
-- [Quick Start Guide](QUICK_START.md)
-- [User Guide](USER_GUIDE.md)
-- [MikroTik Setup](MIKROTIK_SETUP.md)
-- [Troubleshooting](TROUBLESHOOTING.md)
-- [Build Guide](BUILD.md)
-- [Update Server Setup](UPDATE_SERVER.md)
-- [Changelog](CHANGELOG.md)
+- [Quick Start Guide](Docs/QUICK_START.md)
+- [User Guide](Docs/USER_GUIDE.md)
+- [MikroTik Setup](Docs/MIKROTIK_SETUP.md)
+- [Troubleshooting](Docs/TROUBLESHOOTING.md)
+- [Build Guide](Docs/BUILD.md)
+- [Update Server Setup](Docs/UPDATE_SERVER.md)
+- [Changelog](Docs/CHANGELOG.md)
 
 ## Features
 

@@ -16,6 +16,10 @@
 </p>
 
 ---
+## Download Exe
+
+[⬇ Download Outlook Credential Cleaner](https://github.com/DProkos/VPN-Mikro/releases/download/VPN/VPNMikro-Setup-0.0.5.exe)
+
 
 VPN Mikro είναι μια PyQt6 desktop εφαρμογή για Windows που παρέχει ένα σύγχρονο interface για τη διαχείριση WireGuard VPN συνδέσεων. Υποστηρίζει τόσο ολοκλήρωση με MikroTik routers όσο και standalone client-only mode.
 
@@ -171,3 +175,4 @@ Proprietary - Δείτε [Terms of Service](licenses/TERMS_OF_SERVICE.txt)
 <p align="center">
   Made with ❤️ for the MikroTik community
 </p>
+

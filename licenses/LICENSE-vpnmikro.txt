@@ -1,0 +1,55 @@
+VPN Mikro - Proprietary Software License
+
+Copyright (c) 2024-2025 Dionisis Prokos
+All Rights Reserved.
+
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+This software and associated documentation files (the "Software") are the 
+exclusive property of Dionisis Prokos (the "Author").
+
+TERMS AND CONDITIONS:
+
+1. OWNERSHIP
+   The Software is proprietary and confidential. All intellectual property 
+   rights, including but not limited to copyrights, patents, trade secrets, 
+   and trademarks, remain the exclusive property of the Author.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Copy, modify, or distribute the Software without written permission
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or alter any proprietary notices or labels
+   - Use the Software for commercial purposes without a license
+   - Sublicense, sell, or transfer the Software to third parties
+
+3. PERMITTED USE
+   This Software is provided for personal, non-commercial use only.
+   Any other use requires explicit written permission from the Author.
+
+4. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+   DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+   This license is effective until terminated. It will terminate automatically
+   if you fail to comply with any term of this agreement.
+
+---
+
+VPN Mikro - WireGuard VPN Manager for MikroTik Routers
+Developed by Dionisis Prokos
+
+THIRD-PARTY NOTICES:
+
+- WireGuard® is a registered trademark of Jason A. Donenfeld
+- MikroTik® is a registered trademark of MikroTikls SIA
+
+For licensing inquiries, contact the Author.

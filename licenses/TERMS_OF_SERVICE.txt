@@ -1,0 +1,124 @@
+VPN Mikro – Terms of Service
+Version 1.0
+Last updated: December 2024
+
+1. Introduction
+
+VPN Mikro is a desktop software application that provides a management 
+interface and client for WireGuard-based VPN connections on MikroTik routers.
+
+VPN Mikro is an independent third-party software and is not affiliated with, 
+endorsed by, or associated with MikroTik or the WireGuard project.
+
+By installing or using the Software, you agree to these Terms of Service.
+
+2. Nature of the Software
+
+VPN Mikro:
+- does not provide VPN servers or network connectivity
+- does not route, relay, inspect, store, or log user traffic
+- acts solely as a local management and configuration tool
+
+All VPN connections are established directly between the user's device 
+and their own MikroTik router.
+
+3. No VPN or Anonymization Service
+
+VPN Mikro is not a VPN service provider.
+
+The Software:
+- does not guarantee anonymity
+- does not hide user identity
+- does not bypass censorship, surveillance, or legal restrictions
+- does not provide IP addresses or shared tunnels
+
+Users are solely responsible for how they configure and use their VPN 
+infrastructure.
+
+4. User Responsibilities
+
+You are responsible for:
+- owning or having authorization to manage the MikroTik device you connect to
+- complying with all applicable local, national, and international laws
+- ensuring proper security of your router, credentials, and devices
+
+You must not use the Software for unlawful purposes.
+
+5. Credentials and Security
+
+VPN Mikro stores credentials locally using platform-native secure storage 
+mechanisms where available.
+
+The Software:
+- does not transmit credentials to third parties
+- does not collect or store credentials remotely
+- cannot recover lost credentials
+
+The user remains fully responsible for credential protection.
+
+6. WireGuard and Third-Party Components
+
+VPN Mikro integrates third-party components, including WireGuard.
+
+These components:
+- remain the property of their respective authors
+- are governed by their own licenses
+- are used in accordance with their license terms
+
+Relevant license notices are included with the Software distribution.
+
+7. No Warranty
+
+The Software is provided "as is", without warranty of any kind.
+
+The developer makes no guarantees regarding:
+- uptime
+- performance
+- compatibility
+- security outcomes
+- fitness for a particular purpose
+
+Use of the Software is entirely at your own risk.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by law, the developer shall not be liable for:
+- loss of data
+- network misconfigurations
+- security breaches
+- service interruptions
+- indirect or consequential damages
+
+9. Updates and Changes
+
+The Software may be updated at any time to improve functionality or security.
+
+These Terms may be updated. Continued use of the Software constitutes 
+acceptance of the updated Terms.
+
+10. Termination
+
+You may stop using the Software at any time.
+
+The developer reserves the right to discontinue the Software without obligation.
+
+11. Governing Law
+
+These Terms shall be governed by and interpreted in accordance with the 
+laws of Greece.
+
+12. Contact
+
+For questions regarding these Terms, contact the developer through the 
+official software distribution channels.
+
+--------------------------------------------------------------------------------
+
+IMPORTANT DISCLAIMER
+
+VPN Mikro is a management tool, not a network service. All VPN traffic 
+remains under the sole control of the user and their infrastructure.
+
+--------------------------------------------------------------------------------
+
+Copyright (c) 2024-2025 Dionisis Prokos. All rights reserved.

@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vpnmikro"
+version = "0.0.5"
+description = "PyQt6 desktop application for managing WireGuard VPN tunnels through MikroTik routers"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [
+    {name = "Dionisis Prokos"}
+]
+keywords = ["vpn", "wireguard", "mikrotik", "pyqt6"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Win32 (MS Windows)",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Microsoft :: Windows",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: System :: Networking",
+]
+
+dependencies = [
+    "PyQt6>=6.5.0",
+    "PyNaCl>=1.5.0",
+    "cryptography>=41.0.0",
+    "qrcode[pil]>=7.4.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "hypothesis>=6.82.0",
+    "pytest>=7.4.0",
+    "pytest-qt>=4.2.0",
+]
+
+[project.scripts]
+vpnmikro = "vpnmikro:main"
+
+[project.gui-scripts]
+vpnmikro-gui = "vpnmikro:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["vpnmikro*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v"

@@ -1,0 +1,7 @@
+{
+    "version": "0.0.4",
+    "download_url": "https://your-server.com/downloads/vpnmikro-setup-0.0.4.exe",
+    "changelog": "Version 0.0.4:\n- Fixed UI freeze on second connect attempt\n- Added connection verification (checks for traffic before confirming)\n- Added real-time traffic display (↓X.XMB ↑X.XMB)\n- VPN operations now run in background thread\n- Clear error messages when connection fails",
+    "release_date": "2025-12-27",
+    "min_version": "0.0.0"
+}
